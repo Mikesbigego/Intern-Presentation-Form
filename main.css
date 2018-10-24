@@ -1,0 +1,37 @@
+
+
+
+header{
+        background: url("https://thethrivelifeblog.files.wordpress.com/2014/08/restaurahts-starbucks-e1407875669204.jpg") no-repeat center;
+        background-size: cover;           
+}
+.jumbotron{ margin-bottom:5px; }
+
+
+  
+
+.section {
+    background-color: darkgrey;
+    color: white;
+    margin: 12px;
+    padding: 12px;
+
+}
+      
+
+.section2 {
+    background-color: darkgrey;
+    color: white;
+    margin: 10px;
+    padding: 12px;
+}
+
+      
+        
+ .section3 {
+    background-color: lightgoldenrodyellow;
+    color: darkgray;
+    margin: 10px;
+    padding: 40px;
+}
+
